@@ -6,12 +6,12 @@
 
 ## 📖 Table of Contents
 
-* [Overview](https://www.google.com/search?q=%23-overview)
-* [Key Features](https://www.google.com/search?q=%23-key-features)
-* [UI & Design System](https://www.google.com/search?q=%23-ui--design-system)
-* [Tech Stack](https://www.google.com/search?q=%23-tech-stack)
-* [Security & Architecture](https://www.google.com/search?q=%23-security--architecture)
-* [Installation](https://www.google.com/search?q=%23-installation)
+* [Overview](#-overview)
+* [Key Features](#-key-features)
+* [UI & Design System](#-ui--design-system)
+* [Tech Stack](#-tech-stack)
+* [Security & Architecture](#-security--architecture)
+* [Installation](#-installation)
 
 ---
 
