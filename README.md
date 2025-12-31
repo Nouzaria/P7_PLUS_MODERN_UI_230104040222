@@ -10,7 +10,6 @@
 * [Key Features](#-key-features)
 * [UI & Design System](#-ui--design-system)
 * [Tech Stack](#-tech-stack)
-* [Security & Architecture](#-security--architecture)
 * [Installation](#-installation)
 
 ---
